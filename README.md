@@ -14,6 +14,10 @@ This project explores a simulated **Movie Database** using advanced SQL queries.
 
 ---
 
+## 📸 Screenshot
+<img width="420" height="806" alt="image" src="https://github.com/user-attachments/assets/8e1bd07a-0717-4766-bf1a-04017d2e912a" />
+
+
 ## 🧠 Queries 
 
 ### 🎯 1. Top 5 Rated Movies
