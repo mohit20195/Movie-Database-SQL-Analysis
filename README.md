@@ -86,3 +86,15 @@ LEFT JOIN genres g ON mg.genre_id=g.genre_id
 GROUP BY title,release_year,m.movie_id
 HAVING COUNT(DISTINCT g.genre_id)>=2
 ORDER BY rating DESC;
+
+## 🧠 Key Insights
+
+- Identified movies with multiple genres and their average ratings
+- Explored genre popularity and average rating per genre
+- Practiced combining `GROUP BY`, `HAVING`, and `JOINs` for real-world cases
+
+## 📬 Contact Me
+
+I'm always happy to connect with fellow data enthusiasts, recruiters, or collaborators!
+- 👤 **Name:**   Mohit Sharma
+- 📧 **Email:** mohit20195@gmail.com
