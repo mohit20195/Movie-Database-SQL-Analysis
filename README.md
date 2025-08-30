@@ -9,7 +9,6 @@ This project explores a simulated **Movie Database** using advanced SQL queries.
 - ✅ Complex `JOIN`s across multiple tables
 - ✅ Aggregation with `COUNT()`, `AVG()`, and `GROUP BY`
 - ✅ Filtering with `HAVING`
-- ✅ Ranking movies using `RANK()` and `DENSE_RANK()`
 - ✅ Compatible with MySQL and SQL standards
 
 ---
